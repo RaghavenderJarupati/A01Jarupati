@@ -1,0 +1,44 @@
+
+.body {
+    background-image:url("abstract.png");
+    background-size:cover;
+    font-family: verdana;
+    font-size: 20px;
+    height: 100%;
+    width: auto;
+   padding-top: 2%;
+    }
+
+.img-circle{
+     src:"Raghu.jpg";
+     border-radius:50%;  
+     }
+.wrapper {
+    background-image:url("abstract1.jpg");
+    font-family: sans-serif;
+    font-size: 20px;
+    }
+#hig2{
+    background-color: transparent;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: black;
+    
+    }
+.jumbotron {
+    color: darkblue;    
+    background-image:url("img20.jpg");
+}
+#id2 {
+   color: darkblue;
+     background-color: darkkhaki;
+}
+#id3 {
+    color: darkblue;
+   background-color: darkkhaki ;
+}
+.navbar-fixed-top{
+    height: 40px;
+
+}
+
